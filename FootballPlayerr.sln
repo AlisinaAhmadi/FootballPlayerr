@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballPlayerr", "FootballPlayerr\FootballPlayerr.csproj", "{11D16C6C-EEE0-465E-851D-CC2CC8029058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballPlayer TEST", "FootballPlayer TEST\FootballPlayer TEST.csproj", "{2109B6A2-DCB9-4A91-8709-0135C57A4111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D16C6C-EEE0-465E-851D-CC2CC8029058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D16C6C-EEE0-465E-851D-CC2CC8029058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D16C6C-EEE0-465E-851D-CC2CC8029058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D16C6C-EEE0-465E-851D-CC2CC8029058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2109B6A2-DCB9-4A91-8709-0135C57A4111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2109B6A2-DCB9-4A91-8709-0135C57A4111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2109B6A2-DCB9-4A91-8709-0135C57A4111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2109B6A2-DCB9-4A91-8709-0135C57A4111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C739AE3-F666-4DF2-B1CC-5FE0F8C625EB}
+	EndGlobalSection
+EndGlobal
